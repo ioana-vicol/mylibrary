@@ -1,0 +1,36 @@
+{
+    "books": [
+        {
+            "author": "Emily Bront\u00eb",
+            "title": "Wuthering Heights",
+            "genre": "Roman",
+            "trilogy": null,
+            "obtained by": null,
+            "accessible": true
+        },
+        {
+            "author": "Irvin D. Yalom",
+            "title": "Und Nietzsche weinte",
+            "genre": "Roman",
+            "trilogy": null,
+            "obtained by": null,
+            "accessible": true
+        },
+        {
+            "author": "Michel de Montaigne",
+            "title": "Essais",
+            "genre": "Philosophy",
+            "trilogy": null,
+            "obtained by": null,
+            "accessible": true
+        },
+        {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter",
+            "genre": "Fantasy",
+            "trilogy": null,
+            "obtained by": null,
+            "accessible": true
+        }
+    ]
+}
